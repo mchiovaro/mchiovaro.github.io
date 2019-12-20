@@ -11,49 +11,59 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, State University of New York at Oneonta, 2018
+* B.S. in Psychology, State University of New York at Oneonta, 2018
+* Ph.D. in Ecological Psychology, University of Connecticut, 2023 (anticipated)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020:
+  * Research Assistant
+  * Teaching Assistant
+    * PSYC 2100WQ
+    * Instructor of Record:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2019:
+  * Research Assistant
+    * Supervisor: Alexandra Paxton
+
+* Spring 2019: Research Assistant
+  * Research Assistant
+    * Supervisor: Alexandra Paxton
+  * Teaching Assistant
+    * PSYC 1100L
+    * Instructor of Record: Harvey Swadlow
+
+* Fall 2018: Research Assistant
+  * Research Assistant
+    * Supervisor: Alexandra Paxton
+  * Teaching Assistant
+    * PSYC 1100L
+    * Instructor of Record: James Chrobak
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*
+  *
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*
