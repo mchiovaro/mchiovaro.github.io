@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -44,10 +44,6 @@ redirect_from:
 
 ## Publications, Proceedings, and Posters
 
-  #{% for post in site.publications reversed %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}
-
 ## Lab Involvement
 
 <p style="margin-left: 40px"><b>Research Assistant</b>
@@ -77,6 +73,6 @@ redirect_from:
 <br><i>Fall 2018, Spring 2019</i></p>
 
 ## Community Involvement
-* I'm currently assisting the **[Keney Park Sustainability Project} (https://www.keneyparksustainability.org/)** based out of Hartford, CT with their beekeeping initiative.
-* I also spend time at UConn's Spring Valley, a student run organic farm which hosts several hives (including our experimental hives).
+* I'm currently assisting the **[Keney Park Sustainability Project] (https://www.keneyparksustainability.org/)** based out of Hartford, CT with their beekeeping initiative.
+* I also spend time at **UConn's Spring Valley**, a student run organic farm which hosts several hives (including our experimental hives).
 * Mentoring new beekeepers is something I also enjoy immensely. If you're interested in getting started, look for local beekeeping associations in your area or reach out to me with questions!
