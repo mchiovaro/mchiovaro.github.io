@@ -58,7 +58,7 @@ redirect_from:
 <p style="margin-left: 40px"><b>Undergraduate RA</b>
 <br>Department of Psychology
 <br>State University of New York at Oneonta
-<br>Dapper Lab **(site)[http:employees.oneonta.edu/lauks/]**
+<br>[Dapper Lab](http:employees.oneonta.edu/lauks/)
 <br>Supervisor: Katherine Lau
 <br><i>January 2017 — May 2018</i></p>
 
