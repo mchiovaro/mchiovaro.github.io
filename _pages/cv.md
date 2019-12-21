@@ -9,50 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+##Education
 ======
 * B.S. in Mathematics, State University of New York at Oneonta, 2018
 * B.S. in Psychology, State University of New York at Oneonta, 2018
 * Ph.D. in Ecological Psychology, University of Connecticut, 2023 (anticipated)
 
-## Talks
+##Talks
 
 <p style="margin-left: 40px"><b>Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.</b>
-<br>*Chiovaro, M.* & Paxton, A.
+<br>Chiovaro, M. & Paxton, A.
 <br>Paper presented at the <i>Annual Meeting of the Society for Computers in Psychology (SCiP)</i>. Montréal, Québec, Canada.
 <br><i>November 2019</i></p>  
 
 <p style="margin-left: 40px"><b>Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems.</b>
-<br>*Chiovaro, M.* & Paxton, A. (organizers).
+<br>Chiovaro, M. & Paxton, A. (organizers).
 <br>Symposium presented at the <i>20th International Conference on Perception and Action</i>. Groningen, Netherlands.
 <br><i>July 2019</i></p>  
 
 <p style="margin-left: 40px"><b>Busy bees: Task allocation in Apis mellifera as inspiration for engineering effective human collectives.</b>
-<br>*Chiovaro, M.* & Paxton, A.
+<br>Chiovaro, M. & Paxton, A.
 <br>Paper presented at the <i>20th International Conference on Perception and Action</i>. Groningen, Netherlands.
 <br><i>July 2019</i></p>
 
 <p style="margin-left: 40px"><b>To be a bee: Lessons from perception, action, and interpersonal coordination.</b>
-<br>*Chiovaro, M.*
+<br>Chiovaro, M.
 <br>Invited talk presented at Gordon College. Wenham, MA.
 <br><i>April 2019</i></p>
 
 <p style="margin-left: 40px"><b>To be a bee: Lessons from perception, action, and interpersonal coordination.</b>
-<br>*Chiovaro, M.*
-<br>Paper presented at the </i>Student Diversity and Leadership Conference<i>. Oneonta, NY.
+<br>Chiovaro, M.
+<br>Paper presented at the <i>Student Diversity and Leadership Conference</i>. Oneonta, NY.
 <br><i>March 2017</i></p>
 
-  #{% for post in site.talks reversed %}
-  #  {% include archive-single-talk-cv.html %}
-  #{% endfor %}
-
-## Publications, Proceedings, and Posters
+##Publications, Proceedings, and Posters
 
   #{% for post in site.publications reversed %}
   #  {% include archive-single-cv.html %}
   #{% endfor %}
 
-## Lab Involvement
+##Lab Involvement
 
     <p style="margin-left: 40px"><b>Research Assistant</b>
     <br>Department of Psychological Sciences
@@ -68,7 +64,7 @@ Education
     <br>Supervisor: Katherine Lau
     <br><i>January 2017 — May 2018</i></p>
 
-## Teaching experience
+##Teaching experience
 
 <p style="margin-left: 40px"><b>PSYC 2100WQ TA</b>
 <br>University of Connecticut
@@ -84,7 +80,7 @@ Education
   #  {% include archive-single-cv.html %}
   #{% endfor %}
 
-## Community Involvement
+##Community Involvement
 * I'm currently assisting the **[Keney Park Sustainability Project} (https://www.keneyparksustainability.org/)** based out of Hartford, CT with their beekeeping initiative.
 * I also spend time at UConn's Spring Valley, a student run organic farm which hosts several hives (including our experimental hives).
 * Mentoring new beekeepers is something I also enjoy immensely. If you're interested in getting started, look for local beekeeping associations in your area or reach out to me with questions!
