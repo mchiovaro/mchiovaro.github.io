@@ -46,6 +46,10 @@ redirect_from:
 
 <p style="margin-left: 40px">Under construction!</p>
 
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+  {% endfor %}
+
 ## Lab Involvement
 
 <p style="margin-left: 40px"><b>Research Assistant</b>
