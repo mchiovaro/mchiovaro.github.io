@@ -1,7 +1,17 @@
 # main links links
 main:
+
   - title: "CV"
     url: /cv/
+
+    - title: "Projects"
+      url: /projects/
+
+  - title: "Outreach"
+    url: /outreach/
+
+  - title: "Contact Me"
+    url: /contact/
 
   #- title: "Publications"
   #  url: /publications/
