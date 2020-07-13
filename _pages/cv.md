@@ -17,7 +17,7 @@ redirect_from:
 
 ## Talks
 
-<p style="margin-left: 40px"><b>.</b>Cross-Recurrence Quantification Analyses of Real-World and Online Social Cohesion During the Arab Spring.
+<p style="margin-left: 40px"><b>.<b>Cross-Recurrence Quantification Analyses of Real-World and Online Social Cohesion During the Arab Spring.
 <br>Chiovaro, M., Paxton, A., & Windsor, L. C.
 <br>Paper to be presented at the <i>30th Annual International Society for Chaos Theory in Psychology and Life Sciences Conference</i>. Virtual conference due to COVID-19.
 <br><i>July 2020</i></p>  
