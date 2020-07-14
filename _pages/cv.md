@@ -11,9 +11,32 @@ redirect_from:
 
 ## Education
 
-* B.S. in Mathematics, State University of New York at Oneonta, 2018
-* B.S. in Psychology, State University of New York at Oneonta, 2018
-* Ph.D. in Ecological Psychology, University of Connecticut, 2023 (anticipated)
+<p style="margin-left: 40px"><b>Ph.D. in Ecological Psychology</b>
+<br>University of Connecticut
+<br><i>Anticipated 2023</i></p>  
+
+<p style="margin-left: 40px"><b>B.S. in Mathematics</b>
+<br>State University of New York at Oneonta
+<br><i>summa cum laude</i>
+<br><i>August 2014 - May 2018</i></p>  
+
+<p style="margin-left: 40px"><b>B.S. in Psychology</b>
+<br>State University of New York at Oneonta
+<br><i>summa cum laude</i>
+<br><i>August 2014 - May 2018</i></p>  
+
+## Peer-Reviewed Publications and Proceedings
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Paxton, A., & Windsor, L. C. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. **Equal Contributions by Paxton and Windsor**</p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>under review</i>).  Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors.</p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (organizers, guest editors)(<i>under review</i>). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
+<br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2019). Nest-ed affordances. In  L. van Dijk, & R. Withagen (Eds.), <i>Studies in Perception and Action XV. Proceedings from the Seventeenth International Conference on Perception and Action</i>.</p>
 
 ## Talks
 
@@ -46,19 +69,6 @@ redirect_from:
 <br>Chiovaro, M.
 <br>Talk presented at the <i>Student Diversity and Leadership Conference</i>. Oneonta, NY.
 <br><i>March 2017</i></p>
-
-## Peer-reviewed Publications and Proceedings
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Paxton, A., & Windsor, L. C. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. **Equal Contributions by Paxton and Windsor**</p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>under review</i>).  Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors.</p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (organizers, guest editors)(<i>under review</i>). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
-<br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2019). Nest-ed affordances. In  L. van Dijk, & R. Withagen (Eds.), <i>Studies in Perception and Action XV. Proceedings from the Seventeenth International Conference on Perception and Action</i>.</p>
 
 ## Posters
 
