@@ -55,8 +55,7 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (organizers, guest editors)(<i>under review</i>). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
-<br>[Github Repo](https://github.com/mchiovaro/nonlinear-natural-noisy)</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior. [Github Repo](https://github.com/mchiovaro/nonlinear-natural-noisy) </p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2019). Nest-ed affordances. In  L. van Dijk, & R. Withagen (Eds.), <i>Studies in Perception and Action XV. Proceedings from the Seventeenth International Conference on Perception and Action</i>.</p>
 
@@ -67,7 +66,7 @@ redirect_from:
 <p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, & Paxton, A. (2019). Nest-ed affordances. Poster presented at the <i>20th International Conference on Perception and Action</i>. Groningen, Netherlands.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, & Paxton, A. (2019). What the buzz is all about: Apis mellifera as a model for collective intelligence. Poster presented at the <i>Second Annual Northeastern Regional Conference on Complex Systems</i>. Binghamton, NY.
-<br>*Awarded Honorable Mention in poster competition.*</p>
+<br><i><b>Awarded Honorable Mention in poster competition.</i></b></p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, Faraci, N., Curtin, S. A., Cunningham, A. G., Lau, K. S. L. (2018). Exposure to trauma and its effects on mental health and seeking services. Poster presented at the <i>State University of New York Undergraduate Research Conference</i>. Oneonta, NY.</p>
 
