@@ -74,7 +74,7 @@ redirect_from:
 
 <p style="margin-left: 40px">Faraci, N., <b>Chiovaro, M. R.</b>, Cunningham, A. G., Lau, K. S. L. (2018). The vulnerable dark triad and unique subtypes of aggression. Poster presented at the <i>State University of New York Undergraduate Research Conference</i>. Oneonta, NY.</p>
 
-<p style="margin-left: 40px"><b>Chiovaro, M. R.<.b>, & Lau, K. S. L. (2018). The four facets of psychopathy and suicidal ideation. Poster presented at the <i>Eastern Psychological Association’s Annual Meeting</i>. Philadelphia, PA.</p>
+<p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, & Lau, K. S. L. (2018). The four facets of psychopathy and suicidal ideation. Poster presented at the <i>Eastern Psychological Association’s Annual Meeting</i>. Philadelphia, PA.</p>
 
 ## Lab Involvement
 
