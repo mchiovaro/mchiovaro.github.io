@@ -42,7 +42,7 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>Cross-Recurrence Quantification Analyses of Real-World and Online Social Cohesion During the Arab Spring.</b>
 <br>Chiovaro, M., Paxton, A., & Windsor, L. C.
-<br>Paper to be presented at the <i>30th Annual International Society for Chaos Theory in Psychology and Life Sciences Conference</i>. Virtual conference due to COVID-19.
+<br>Paper presented at the <i>30th Annual International Society for Chaos Theory in Psychology and Life Sciences Conference</i>. Virtual conference due to COVID-19.
 <br><i>July 2020</i></p>  
 
 <p style="margin-left: 40px"><b>Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.</b>
