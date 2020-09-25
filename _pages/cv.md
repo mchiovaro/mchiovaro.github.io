@@ -40,37 +40,44 @@ redirect_from:
 
 ## Talks
 
-<p style="margin-left: 40px"><b>Cross-Recurrence Quantification Analyses of Real-World and Online Social Cohesion During the Arab Spring.</b>
+<p style="margin-left: 40px"><b>Waves of collective action: Dynamics of online and real-world activism in the Arab Spring</b>
+<br>Chiovaro, M., Paxton, A., & Windsor, L. C.
+<br>Paper to be presented at the <i>50th annual conference of the Society for Computation in Psychology (SCiP)</i>. Virtual conference due to COVID-19.
+<br><i>Forthcoming November 2020</i></p>
+
+<p style="margin-left: 40px"><b>Cross-Recurrence Quantification Analyses of Real-World and Online Social Cohesion During the Arab Spring</b>
 <br>Chiovaro, M., Paxton, A., & Windsor, L. C.
 <br>Paper presented at the <i>30th Annual International Society for Chaos Theory in Psychology and Life Sciences Conference</i>. Virtual conference due to COVID-19.
 <br><i>July 2020</i></p>  
 
-<p style="margin-left: 40px"><b>Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.</b>
+<p style="margin-left: 40px"><b>Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior</b>
 <br>Chiovaro, M. & Paxton, A.
 <br>Paper presented at the <i>Annual Meeting of the Society for Computers in Psychology (SCiP)</i>. Montréal, Québec, Canada.
 <br><i>November 2019</i></p>  
 
-<p style="margin-left: 40px"><b>Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems.</b>
+<p style="margin-left: 40px"><b>Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems</b>
 <br>Chiovaro, M. & Paxton, A. (organizers).
 <br>Symposium presented at the <i>20th International Conference on Perception and Action</i>. Groningen, Netherlands.
 <br><i>July 2019</i></p>  
 
-<p style="margin-left: 40px"><b>Busy bees: Task allocation in Apis mellifera as inspiration for engineering effective human collectives.</b>
+<p style="margin-left: 40px"><b>Busy bees: Task allocation in Apis mellifera as inspiration for engineering effective human collectives</b>
 <br>Chiovaro, M. & Paxton, A.
 <br>Paper presented at the <i>20th International Conference on Perception and Action</i>. Groningen, Netherlands.
 <br><i>July 2019</i></p>
 
-<p style="margin-left: 40px"><b>To be a bee: Lessons from perception, action, and interpersonal coordination.</b>
+<p style="margin-left: 40px"><b>To be a bee: Lessons from perception, action, and interpersonal coordination</b>
 <br>Chiovaro, M.
 <br>Invited talk presented at Gordon College. Wenham, MA.
 <br><i>April 2019</i></p>
 
-<p style="margin-left: 40px"><b>The state of our minds.</b>
+<p style="margin-left: 40px"><b>The state of our minds</b>
 <br>Chiovaro, M.
 <br>Talk presented at the <i>Student Diversity and Leadership Conference</i>. Oneonta, NY.
 <br><i>March 2017</i></p>
 
 ## Posters
+
+<p style="margin-left: 40px">Dhaim, A., <b>Chiovaro, M.</b>, & Blau, J. J. C. (Forthcoming). Self-similarity of the stage: Fractality in live theatre performances. Poster to be presented at the <i>61st Psychonomic Society Annual Meeting</i>. Virtual.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2019). What you see is how you feel: How social anxiety shapes visual perception and attention. Poster presented at the <i>60th Psychonomic Society Annual Meeting</i>. Montréal, Québec, Canada.</p>
 
@@ -107,7 +114,7 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>PSYC 2100WQ TA</b>
 <br>University of Connecticut
-<br>Instructor of Record(s):
+<br>Instructor of Record(s): Steven Mellor
 <br><i>Spring 2020</i></p>
 
 <p style="margin-left: 40px"><b>PSYC 1100L TA</b>
