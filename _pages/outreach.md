@@ -23,3 +23,6 @@ author_profile: true
 
 <a href="https://www.youtube.com/watch?v=1AiRgTqXG1U&feature=emb_logo" target="_blank"><img src="http://img.youtube.com/vi/1AiRgTqXG1U/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
+<b>IBACS Digest</b>
+<br>I recently interviewed with the Editors of the IBACS (Institute for the Brain and Cognitive Sciences) Digest on my experience with the 2019 Graduate Student Summer Fellowship. Check back for when the interview goes live!
