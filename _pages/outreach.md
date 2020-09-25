@@ -19,8 +19,9 @@ author_profile: true
 ## Media
 
 <b>UConn Today: The Psychologist and the Bees</b>
-<br>I am very excited to share [a recent feature of myself and KPSP by UConn Today](https://today.uconn.edu/2020/09/the-psychologist-and-the-bees/)! Through service learning, academics are able to ground their work, practice their science communication with the broader community, and give back to others. I'd like to give my sincerest thank you to <b>Jaclyn Severance</b> (News & Information Officer) and <b>Thomas Rettig</b> (Multimedia Producer) from UConn Today for inviting me to take part in this project. Their efforts toward this piece shine through in the final production, and I can not thank them enough!
+<br>I am very excited to share a recent feature of myself and KPSP by UConn Today! Through service learning, academics are able to ground their work, practice their science communication with the broader community, and give back to others. I'd like to give my sincerest thank you to <b>Jaclyn Severance</b> (News & Information Officer) and <b>Thomas Rettig</b> (Multimedia Producer) from UConn Today for inviting me to take part in this project. Their efforts toward this piece shine through in the final production, and I can not thank them enough!
 
+Click [here](https://today.uconn.edu/2020/09/the-psychologist-and-the-bees/) to read the article or click below to watch the video:
 <a href="https://www.youtube.com/watch?v=1AiRgTqXG1U&feature=emb_logo" target="_blank"><img src="http://img.youtube.com/vi/1AiRgTqXG1U/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
