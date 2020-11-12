@@ -27,11 +27,11 @@ redirect_from:
 
 ## Peer-Reviewed Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in press</i>).  Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors.</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2020). Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors. <i>Ecological Psychology</i>. [PDF](http://mchiovaro.github.io/files/chiovaro_paxton_2020_Ecological.pdf) </p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (guest editors)(2020<). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, Paxton, A., & Windsor, L. C. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. **Equal Contributions by Paxton and Windsor**</p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (organizers, guest editors)(<i>under review</i>). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
