@@ -27,9 +27,9 @@ redirect_from:
 
 ## Peer-Reviewed Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2020). Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors. <i>Ecological Psychology</i>. [PDF](http://mchiovaro.github.io/files/chiovaro_paxton_2020_Ecological.pdf) </p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2020). Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors. <i>Ecological Psychology</i>.</p> [PDF](http://mchiovaro.github.io/files/chiovaro_paxton_2020_Ecological.pdf)
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (guest editors)(2020<). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (guest editors)(2020). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, Paxton, A., & Windsor, L. C. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. **Equal Contributions by Paxton and Windsor**</p>
 
