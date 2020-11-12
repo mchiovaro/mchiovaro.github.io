@@ -27,7 +27,8 @@ redirect_from:
 
 ## Peer-Reviewed Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2020). Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors. <i>Ecological Psychology</i>.</p> [PDF](http://mchiovaro.github.io/files/chiovaro_paxton_2020_Ecological.pdf)
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2020). Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors. <i>Ecological Psychology</i>.
+<br><a href="http://mchiovaro.github.io/files/chiovaro_paxton_2020_Ecological.pdf" target="_blank">PDF</a></p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (guest editors)(2020). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
 
