@@ -10,11 +10,14 @@ author_profile: true
 <b>Keney Park Sustainability Project (KPSP)</b>
 <br>I'm currently assisting the [Keney Park Sustainability Project (KPSP)](https://www.keneyparksustainability.org/), based out of Hartford, CT, with their beekeeping initiative. KPSP is a non-profit organization located in a federally designated Promise Zone. They aim to provide education about sustainable practices to the surrounding urban community through hands-on programs. KPSP currently has four thriving hives which are used for honey production and community education workshops!
 
-<b>UConn Spring Valley Organic Student Farm</b>
-<br>I love spending time at **UConn's Spring Valley**, a student run organic farm which hosts several hives (including our experimental hives in 2019). They focus on organic agriculture practices.
+<b>Software Carpentry</b>
+<br>As a certified, volunteer instructor for a non-profit organization called [Software Carpentry](https://software-carpentry.org/), I work alongside other data science experts to give free (or minimal cost) coding workshops to university students and researchers. As a former Software Carpentry attendee, I am delighted to give back and pass on this knowledge to others.
 
 <b>Beekeeper Mentoring</b>
 <br>Mentoring new beekeepers is something I also enjoy immensely. If you're interested in getting started, look for local beekeeping associations in your area or reach out to me with questions!
+
+<b>Ask a Brain Scientist</b>
+<br>I have recently started working with Dr. Fumiko Hoeft on her [Ask a Brain Scientist](http://haskinsglobal.org/ask-a-brain-scientist/) series, where kids aged 8-13 can attend, learn, ask questions, and receive a Junior Neuroscientist certificate for their participation.
 
 ## Media
 
