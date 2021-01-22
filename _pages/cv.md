@@ -97,22 +97,21 @@ redirect_from:
 
 ## Funding and Awards
 <b>2021</b>
-<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship ($5,000)
+<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship
 
 <b>2020</b>
 <br>Honorable Mention, National Science Foundation Graduate Research Fellowship Program (NSF GRFP)
-<br>Science of Learning and Art of Communication (SLAC) Fellow (2020-2021, $34,000)
-<br>Science of Learning and Art of Communication (SLAC) Summer Fellowship ($6,051)
-<br>Innovation Funds ($1,230), SLAC
+<br>Science of Learning and Art of Communication (SLAC) Fellow (2020-2021)
+<br>Science of Learning and Art of Communication (SLAC) Summer Fellowship
+<br>Innovation Funds, SLAC
 
 <b>2019</b>
-<br>Travel and Networking Award ($1,000), Women in Cognitive Science Society
+<br>Travel and Networking Award, Women in Cognitive Science Society
 <br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship ($5,000)
 <br>30 Under 30 Award Winner, Alumni Association, SUNY Oneonta
 
 <b>2018</b>
-<br>D’Antonio Student Travel for Excellence Grant ($300),
-SUNY Oneonta
+<br>D’Antonio Student Travel for Excellence Grant, SUNY Oneonta
 <br>Excellence in Research and Methodology, Psychology Department, SUNY Oneonta
 <br>Top Psychology Senior, Psychology Department,
 SUNY Oneonta
@@ -120,8 +119,8 @@ SUNY Oneonta
 <br>SUNY Chancellor’s Award Nominee, SUNY Oneonta
 
 <b>2017</b>
-<br>Student Grant Program for Research & Creative Activity ($830), SUNY Oneonta
-<br>Helen & Michael Casper Fellowship for Internship Support ($1000), SUNY Oneonta
+<br>Student Grant Program for Research & Creative Activity, SUNY Oneonta
+<br>Helen & Michael Casper Fellowship for Internship Support, SUNY Oneonta
 
 ## Lab Involvement
 
