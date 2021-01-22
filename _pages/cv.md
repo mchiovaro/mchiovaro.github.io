@@ -27,15 +27,15 @@ redirect_from:
 
 ## Peer-Reviewed Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2020). Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors. <i>Ecological Psychology</i>.
-<br><a href="http://mchiovaro.github.io/files/chiovaro_paxton_2020_Ecological.pdf" target="_blank">PDF</a></p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (guest editors)(2020). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
-
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, Paxton, A., & Windsor, L. C. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. **Equal Contributions by Paxton and Windsor**</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2020). Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors. <i>Ecological Psychology</i>.
+<br><a href="http://mchiovaro.github.io/files/chiovaro_paxton_2020_Ecological.pdf" target="_blank">PDF</a></p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (guest editors)(2020). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2019). Nest-ed affordances. In  L. van Dijk, & R. Withagen (Eds.), <i>Studies in Perception and Action XV. Proceedings from the Seventeenth International Conference on Perception and Action</i>.</p>
 
@@ -78,7 +78,7 @@ redirect_from:
 
 ## Posters
 
-<p style="margin-left: 40px">Dhaim, A., <b>Chiovaro, M.</b>, & Blau, J. J. C. (Forthcoming). Self-similarity of the stage: Fractality in live theatre performances. Poster to be presented at the <i>61st Psychonomic Society Annual Meeting</i>. Virtual.</p>
+<p style="margin-left: 40px">Dhaim, A., <b>Chiovaro, M.</b>, & Blau, J. J. C. (2020). Self-similarity of the stage: Fractality in live theatre performances. Poster to be presented at the <i>61st Psychonomic Society Annual Meeting</i>. Virtual.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2019). What you see is how you feel: How social anxiety shapes visual perception and attention. Poster presented at the <i>60th Psychonomic Society Annual Meeting</i>. Montréal, Québec, Canada.</p>
 
@@ -94,6 +94,34 @@ redirect_from:
 <p style="margin-left: 40px">Faraci, N., <b>Chiovaro, M. R.</b>, Cunningham, A. G., Lau, K. S. L. (2018). The vulnerable dark triad and unique subtypes of aggression. Poster presented at the <i>State University of New York Undergraduate Research Conference</i>. Oneonta, NY.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, & Lau, K. S. L. (2018). The four facets of psychopathy and suicidal ideation. Poster presented at the <i>Eastern Psychological Association’s Annual Meeting</i>. Philadelphia, PA.</p>
+
+## Funding and Awards
+<b>2021</b>
+<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship ($5,000)
+
+<b>2020</b>
+<br>Honorable Mention, National Science Foundation Graduate Research Fellowship Program (NSF GRFP)
+<br>Science of Learning and Art of Communication (SLAC) Fellow (2020-2021, $34,000)
+<br>Science of Learning and Art of Communication (SLAC) Summer Fellowship ($6,051)
+<br>Innovation Funds ($1,230), SLAC
+
+<b>2019</b>
+<br>Travel and Networking Award ($1,000), Women in Cognitive Science Society
+<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship ($5,000)
+<br>30 Under 30 Award Winner, Alumni Association, SUNY Oneonta
+
+<b>2018</b>
+<br>D’Antonio Student Travel for Excellence Grant ($300),
+SUNY Oneonta
+<br>Excellence in Research and Methodology, Psychology Department, SUNY Oneonta
+<br>Top Psychology Senior, Psychology Department,
+SUNY Oneonta
+<br>Michael Siegel Award, For dedication and promise to the field of psychology, SUNY Oneonta
+<br>SUNY Chancellor’s Award Nominee, SUNY Oneonta
+
+<b>2017</b>
+<br>Student Grant Program for Research & Creative Activity ($830), SUNY Oneonta
+<br>Helen & Michael Casper Fellowship for Internship Support ($1000), SUNY Oneonta
 
 ## Lab Involvement
 
