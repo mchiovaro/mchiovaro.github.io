@@ -107,7 +107,7 @@ redirect_from:
 
 <b>2019</b>
 <br>Travel and Networking Award, Women in Cognitive Science Society
-<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship ($5,000)
+<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship
 <br>30 Under 30 Award Winner, Alumni Association, SUNY Oneonta
 
 <b>2018</b>
