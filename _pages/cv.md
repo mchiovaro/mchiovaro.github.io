@@ -27,7 +27,7 @@ redirect_from:
 
 ## Peer-Reviewed Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Paxton, A., & Windsor, L. C. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. **Equal Contributions by Paxton and Windsor**</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., Windsor, A., & Paxton, A. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. *Equal Contributions by Paxton, A. and Windsor, L. C.*</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
@@ -44,7 +44,7 @@ redirect_from:
 <p style="margin-left: 40px"><b>Waves of collective action: Dynamics of online and real-world activism in the Arab Spring</b>
 <br>Chiovaro, M., Paxton, A., & Windsor, L. C.
 <br>Paper to be presented at the <i>50th annual conference of the Society for Computation in Psychology (SCiP)</i>. Virtual conference due to COVID-19.
-<br><i>Forthcoming November 2020</i></p>
+<br><i>November 2020</i></p>
 
 <p style="margin-left: 40px"><b>Cross-Recurrence Quantification Analyses of Real-World and Online Social Cohesion During the Arab Spring</b>
 <br>Chiovaro, M., Paxton, A., & Windsor, L. C.
