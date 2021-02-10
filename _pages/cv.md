@@ -27,6 +27,8 @@ redirect_from:
 
 ## Peer-Reviewed Publications and Proceedings
 
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (<i>under review</i>). Vector Autoregression, Cross-Correlation, and Cross-Recurrence Quantification Analysis: A Case Study in Social Cohesion and Collective Action. Proceedings paper.</p>
+
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., Windsor, A., & Paxton, A. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. *Equal Contributions by Paxton, A. and Windsor, L. C.*</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
@@ -35,7 +37,7 @@ redirect_from:
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2020). Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors. <i>Ecological Psychology</i>.
 <br><a href="http://mchiovaro.github.io/files/chiovaro_paxton_2020_Ecological.pdf" target="_blank">PDF</a></p>
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (guest editors)(2020). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (guest editors; 2020). Action coordination in non-human self-organizing collectives: Multidisciplinary lessons from living and nonliving systems. Special issue of <i>Ecological Psychology</i>.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2019). Nest-ed affordances. In  L. van Dijk, & R. Withagen (Eds.), <i>Studies in Perception and Action XV. Proceedings from the Seventeenth International Conference on Perception and Action</i>.</p>
 
