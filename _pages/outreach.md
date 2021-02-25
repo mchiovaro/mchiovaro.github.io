@@ -29,7 +29,7 @@ Click [here](https://today.uconn.edu/2020/09/the-psychologist-and-the-bees/) to 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 <b>UConn Magazine</b>
-<br> [UConn Magazine](https://magazine.uconn.edu/2021/02/15/helping-kids-decode-their-brains/)
+<br>Alongside Fumiko Hoeft, Nathan Luatz and I have been working on the Ask A Brain Scientist webinar series. [UConn Magazine](https://magazine.uconn.edu/2021/02/15/helping-kids-decode-their-brains/) did a piece on this incredible outreach effort.
 
 <b>IBACS Digest</b>
 <br>I recently interviewed with the Editors of the IBACS (Institute for the Brain and Cognitive Sciences) Digest on my experience with the 2019 Graduate Student Summer Fellowship. Check back for when the interview goes live!
