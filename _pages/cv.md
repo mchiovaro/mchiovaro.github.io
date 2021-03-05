@@ -99,18 +99,18 @@ redirect_from:
 
 ## Funding and Awards
 <p style="margin-left: 40px"><b>2021</b>
-<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship
+<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship</p>
 
 <p style="margin-left: 40px"><b>2020</b>
 <br>Honorable Mention, National Science Foundation Graduate Research Fellowship Program (NSF GRFP)
 <br>Science of Learning and Art of Communication (SLAC) Fellow (2020-2021)
 <br>Science of Learning and Art of Communication (SLAC) Summer Fellowship
-<br>Innovation Funds, SLAC
+<br>Innovation Funds, SLAC</p>
 
 <p style="margin-left: 40px"><b>2019</b>
 <br>Travel and Networking Award, Women in Cognitive Science Society
 <br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship
-<br>30 Under 30 Award Winner, Alumni Association, SUNY Oneonta
+<br>30 Under 30 Award Winner, Alumni Association, SUNY Oneonta</p>
 
 <p style="margin-left: 40px"><b>2018</b>
 <br>D’Antonio Student Travel for Excellence Grant, SUNY Oneonta
@@ -118,11 +118,11 @@ redirect_from:
 <br>Top Psychology Senior, Psychology Department,
 SUNY Oneonta
 <br>Michael Siegel Award, For dedication and promise to the field of psychology, SUNY Oneonta
-<br>SUNY Chancellor’s Award Nominee, SUNY Oneonta
+<br>SUNY Chancellor’s Award Nominee, SUNY Oneonta</p>
 
 <p style="margin-left: 40px"><b>2017</b>
 <br>Student Grant Program for Research & Creative Activity, SUNY Oneonta
-<br>Helen & Michael Casper Fellowship for Internship Support, SUNY Oneonta
+<br>Helen & Michael Casper Fellowship for Internship Support, SUNY Oneonta</p>
 
 ## Lab Involvement
 
