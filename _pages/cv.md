@@ -27,9 +27,11 @@ redirect_from:
 
 ## Peer-Reviewed Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (<i>under review</i>). Vector Autoregression, Cross-Correlation, and Cross-Recurrence Quantification Analysis: A Case Study in Social Cohesion and Collective Action. Proceedings paper.</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (<i>under revision</i>). Vector Autoregression, Cross-Correlation, and Cross-Recurrence Quantification Analysis: A Case Study in Social Cohesion and Collective Action. Proceedings paper.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., Windsor, A., & Paxton, A. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. *Equal Contributions by Paxton, A. and Windsor, L. C.*</p>
+
+<p style="margin-left: 40px">Windsor, L. C., <b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Language during the Rwandan Genocide.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
@@ -80,6 +82,8 @@ redirect_from:
 
 ## Posters
 
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (<i>forthcoming</i>). Vector Autoregression, Cross-Correlation, and Cross-Recurrence Quantification Analysis: A Case Study in Social Cohesion and Collective Action. 43rd Annual Meeting of the Cognitive Science Society.</p>
+
 <p style="margin-left: 40px">Dhaim, A., <b>Chiovaro, M.</b>, & Blau, J. J. C. (2020). Self-similarity of the stage: Fractality in live theatre performances. Poster to be presented at the <i>61st Psychonomic Society Annual Meeting</i>. Virtual.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2019). What you see is how you feel: How social anxiety shapes visual perception and attention. Poster presented at the <i>60th Psychonomic Society Annual Meeting</i>. Montréal, Québec, Canada.</p>
@@ -99,7 +103,9 @@ redirect_from:
 
 ## Funding and Awards
 <p style="margin-left: 40px"><b>2021</b>
+<br>Science of Learning and Art of Communication (SLAC) Fellow (2020-2021)
 <br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship</p>
+<br>Science of Learning and Art of Communication (SLAC) Summer Fellowship
 
 <p style="margin-left: 40px"><b>2020</b>
 <br>Honorable Mention, National Science Foundation Graduate Research Fellowship Program (NSF GRFP)
