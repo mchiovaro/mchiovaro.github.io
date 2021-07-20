@@ -108,8 +108,8 @@ redirect_from:
 ## Funding and Awards
 <p style="margin-left: 40px"><b>2021</b>
 <br>Science of Learning and Art of Communication (SLAC) Fellow (2020-2021)
-<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship</p>
-<br>Science of Learning and Art of Communication (SLAC) Summer Fellowship
+<br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship
+<br>Science of Learning and Art of Communication (SLAC) Summer Fellowship</p>
 
 <p style="margin-left: 40px"><b>2020</b>
 <br>Honorable Mention, National Science Foundation Graduate Research Fellowship Program (NSF GRFP)
