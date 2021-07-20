@@ -27,14 +27,18 @@ redirect_from:
 
 ## Peer-Reviewed Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (<i>under revision</i>). Vector Autoregression, Cross-Correlation, and Cross-Recurrence Quantification Analysis: A Case Study in Social Cohesion and Collective Action. Proceedings paper.</p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., Windsor, A., & Paxton, A. (<i>under review</i>). Online social cohesion reflects real-world action in Syria during the Arab Spring. *Equal Contributions by Paxton, A. and Windsor, L. C.*</p>
-
 <p style="margin-left: 40px">Windsor, L. C., <b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Language during the Rwandan Genocide.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in prep</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., Windsor, A., & Paxton, A. (2021). Online social cohesion reflects real-world action in Syria during the Arab Spring. <i>PLoS ONE</i>, 16(7), e0254087.
+<br><a href="http://mchiovaro.github.io/files/chiovaro_et_al_2021-PLOSONE.pdf" target="_blank">PDF</a>
+<a href="https://github.com/mchiovaro/arab-spring/" target="_blank">Github Repo</a></p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (2021). Vector Autoregression, Cross-Correlation, and Cross-Recurrence Quantification Analysis: A Case Study in Social Cohesion and Collective Action. In <i>CogSci</i>.
+<br><a href="http://mchiovaro.github.io/files/chiovaro_et_al_2021-CogSci.pdf" target="_blank">PDF</a>
+<a href="https://github.com/mchiovaro/time-series-analyses/" target="_blank">Github Repo</a></p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2020). Ecological Psychology Meets Ecology: <i>Apis mellifera</i> as a Model for Perception-Action, Social Dynamics, and Human Factors. <i>Ecological Psychology</i>.
 <br><a href="http://mchiovaro.github.io/files/chiovaro_paxton_2020_Ecological.pdf" target="_blank">PDF</a></p>
