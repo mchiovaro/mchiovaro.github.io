@@ -49,6 +49,8 @@ redirect_from:
 
 ## Talks
 
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, Xia, Q., Windsor, L. C., & Paxton, A. (<i>forthcoming</i>). Online affect and offline action: An analysis of the relationship between emotions on social media and real-world events. Paper to be presented at the <i>51st Annual Meeting of the Society for Computation in Psychology</i>. Virtual conference.</p>
+
 <p style="margin-left: 40px"><b>Waves of collective action: Dynamics of online and real-world activism in the Arab Spring</b>
 <br>Chiovaro, M., Paxton, A., & Windsor, L. C.
 <br>Paper to be presented at the <i>50th annual conference of the Society for Computation in Psychology (SCiP)</i>. Virtual conference due to COVID-19.
@@ -85,6 +87,7 @@ redirect_from:
 <br><i>March 2017</i></p>
 
 ## Posters
+<p style="margin-left: 40px">Xia, Q., <b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (2021). Online emotion diffusion during the Arab Spring. Poster presented at the University of Connecticut’s <i>Language Fest</i>.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (<i>forthcoming</i>). Vector Autoregression, Cross-Correlation, and Cross-Recurrence Quantification Analysis: A Case Study in Social Cohesion and Collective Action. 43rd Annual Meeting of the Cognitive Science Society.</p>
 
