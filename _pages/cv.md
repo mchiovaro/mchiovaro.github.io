@@ -59,7 +59,7 @@ redirect_from:
 <br>Paper presented at the <i>51st annual conference of the Society for Computation in Psychology (SCiP)</i>. Virtual conference due to COVID-19.
 <br><i>November 2021</i></p>
 
-<p style="margin-left: 40px"><b>ector autoregression, cross-correlation, and cross-recurrence quantification analysis: A case study in social cohesion and collective action</b>
+<p style="margin-left: 40px"><b>Vector autoregression, cross-correlation, and cross-recurrence quantification analysis: A case study in social cohesion and collective action</b>
 <br>Chiovaro, M., Windsor, L. C., & Paxton, A.
 <br>Paper presented at the <i>43rd Annual Meeting of the Cognitive Science Society.</i>. Virtual conference due to COVID-19.
 <br><i>July 2021</i></p>  
@@ -176,7 +176,7 @@ SUNY Oneonta
 <p style="margin-left: 40px"><b>PSYC 2100WQ TA</b>
 <br>University of Connecticut
 <br>Instructor of Record(s): Steven Mellor
-<br><i>Spring 2020</i></p>
+<br><i>Spring 2020, Fall 2021</i></p>
 
 <p style="margin-left: 40px"><b>PSYC 1100L TA</b>
 <br>University of Connecticut
