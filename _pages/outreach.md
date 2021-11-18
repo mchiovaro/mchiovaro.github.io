@@ -7,7 +7,7 @@ author_profile: true
 
 ## Outreach
 
-<b>Chair, Outreach Committee, Science of Learning and Art of Communication NRF Research Traineeship (NRT) Program</b>
+<b>Chair, Outreach Committee, Science of Learning and Art of Communication NSF Research Traineeship (NRT) Program</b>
 <br>I'm currently serving as Chair of the Outreach Committee for an [NSF Research Traineeship program (SLAC)](https://slac.uconn.edu/) at the University of Connecticut. We create accessible scientific resources and plan events aimed at engaging the community in STEM education. We focus on inspiring STEM interest early in the lives of children and in historically marginalized populations. Most recently we have been collaborating with the Connecticut Science Center for their [STEM Career Showcases](https://ctsciencecenter.org/stem-career-showcases/), allowing us to give Middle and High School students the opportunity to learn about various careers and ask questions.
 
 <b>Keney Park Sustainability Project (KPSP)</b>
