@@ -175,8 +175,8 @@ SUNY Oneonta
 
 <p style="margin-left: 40px"><b>PSYC 2100WQ TA</b>
 <br>University of Connecticut
-<br>Instructor of Record(s): Steven Mellor
-<br><i>Spring 2020, Fall 2021</i></p>
+<br>Instructor of Record(s): Steven Mellor, Ian Stevenson
+<br><i>Spring 2020, Fall 2021, Spring 2022</i></p>
 
 <p style="margin-left: 40px"><b>PSYC 1100L TA</b>
 <br>University of Connecticut
