@@ -13,7 +13,7 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>Ph.D. in Ecological Psychology</b>
 <br>University of Connecticut
-<br><i>Anticipated August 2022</i></p>  
+<br><i>Anticipated May 2023</i></p>  
 
 <p style="margin-left: 40px"><b>B.S. in Mathematics</b>
 <br>State University of New York at Oneonta
