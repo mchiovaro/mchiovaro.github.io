@@ -9,11 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+## Positions
+
+<p style="margin-left: 40px"><b>Software Engineer III</b>
+<br>Special Projects: AI/ML
+<br>SEACORP
+<br><i>August 2023 - present</i></p>
+
+<p style="margin-left: 40px"><b>Data Science Fellow</b>
+<br>U.S. Census Bureau
+<br><i>June 2022 - August 2022</i></p>
+
 ## Education
 
-<p style="margin-left: 40px"><b>Ph.D. in Ecological Psychology</b>
+<p style="margin-left: 40px"><b>Ph.D. in Experimental Psychology</b>
 <br>University of Connecticut
-<br><i>Anticipated May 2023</i></p>  
+<br><i>May 2023</i></p>  
 
 <p style="margin-left: 40px"><b>B.S. in Mathematics</b>
 <br>State University of New York at Oneonta
@@ -25,16 +36,19 @@ redirect_from:
 <br><i>summa cum laude</i>
 <br><i>August 2014 - May 2018</i></p>  
 
-## Peer-Reviewed Publications and Proceedings
+## Publications and Proceedings
 
-<p style="margin-left: 40px">Xia, Q., <b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (<i>under review</i>). Online emotion diffusion and its coupling with real-world collective action in Syria during the Arab Spring. [<i>Registered Report</i>].</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b> & Paxton, A. (<i>in preparation</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities.</p>
+<br><a href="https://github.com/mchiovaro/division-of-labor-game" target="_blank">Github Repo - Game</a>
+<br><a href="https://github.com/mchiovaro/division-of-labor-analyses" target="_blank">Github Repo - Analyses</a>
+</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in preparation</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
 
 <p style="margin-left: 40px">Windsor, L. C., <b>Chiovaro, M.</b>, & Paxton, A. (<i>in preparation</i>). Language during the Rwandan Genocide.</p>
 
-<p style="margin-left: 40px">Dhaim, A., N., <b>Chiovaro, M.</b>, & Blau, J. J. C. (<i>in preparation</i>). Investigating the fractal structure of sound in theatrical performances.</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b> (2023). <i>Action coordination and group efficiency: An investigation of context and constraints in goal-directed, division-of-labor tasks</i> [Doctoral Thesis, University of Connecticut]. Digital Commons.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., Windsor, A., & Paxton, A. (2021). Online social cohesion reflects real-world action in Syria during the Arab Spring. <i>PLoS ONE</i>, 16(7), e0254087.
 <br><a href="http://mchiovaro.github.io/files/chiovaro_et_al_2021-PLOSONE.pdf" target="_blank">PDF</a>
@@ -116,7 +130,7 @@ redirect_from:
 <p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, & Paxton, A. (2019). Nest-ed affordances. Poster presented at the <i>20th International Conference on Perception and Action</i>. Groningen, Netherlands.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, & Paxton, A. (2019). What the buzz is all about: Apis mellifera as a model for collective intelligence. Poster presented at the <i>Second Annual Northeastern Regional Conference on Complex Systems</i>. Binghamton, NY.
-<br><i><b>Awarded Honorable Mention in poster competition.</b></i></p>
+<br><i><b>Honorable Mention, poster competition.</b></i></p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, Faraci, N., Curtin, S. A., Cunningham, A. G., Lau, K. S. L. (2018). Exposure to trauma and its effects on mental health and seeking services. Poster presented at the <i>State University of New York Undergraduate Research Conference</i>. Oneonta, NY.</p>
 
@@ -127,6 +141,10 @@ redirect_from:
 <p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, & Lau, K. S. L. (2018). The four facets of psychopathy and suicidal ideation. Poster presented at the <i>Eastern Psychological Association’s Annual Meeting</i>. Philadelphia, PA.</p>
 
 ## Funding and Awards
+
+<p style="margin-left: 40px"><b>2022</b>
+<br>Doctoral Dissertation Award (2022), The Graduate School, University of Connecticut</p>
+
 <p style="margin-left: 40px"><b>2021</b>
 <br>Science of Learning and Art of Communication (SLAC) Fellow (2020-2021)
 <br>The Connecticut Institute for the Brain and Cognitive Sciences Graduate Fellowship
@@ -162,9 +180,9 @@ SUNY Oneonta
 <br>University of Connecticut
 <br>DYSCORD Lab
 <br>Supervisor: Alexandra Paxton
-<br><i>August 2018 — present</i></p>    
+<br><i>August 2018 — August 2023</i></p>    
 
-<p style="margin-left: 40px"><b>Undergraduate RA</b>
+<p style="margin-left: 40px"><b>Research Assistnat</b>
 <br>Department of Psychology
 <br>State University of New York at Oneonta
 <br>DAPPER Lab
@@ -173,12 +191,17 @@ SUNY Oneonta
 
 ## Teaching experience
 
-<p style="margin-left: 40px"><b>PSYC 2100WQ TA</b>
+<p style="margin-left: 40px"><b>Coordinator: PSYC 2100WQ</b>
 <br>University of Connecticut
-<br>Instructor of Record(s): Steven Mellor, Ian Stevenson
-<br><i>Spring 2020, Fall 2021, Spring 2022</i></p>
+<br>Supervisor: Steven Mellor
+<br><i>Spring 2022, Fall 2022, Spring 2023</i></p>
 
-<p style="margin-left: 40px"><b>PSYC 1100L TA</b>
+<p style="margin-left: 40px"><b>PSYC 2100WQ Lab Instructor</b>
 <br>University of Connecticut
-<br>Instructor of Record(s): James Chrobak, Harvey Swadlow
+<br>Supervisor(s): Steven Mellor, Ian Stevenson
+<br><i>Spring 2020, Fall 2021, Spring 2022, Fall 2022, Spring 2023</i></p>
+
+<p style="margin-left: 40px"><b>PSYC 1100L Lab Instructor</b>
+<br>University of Connecticut
+<br>Supervisor(s): James Chrobak, Harvey Swadlow
 <br><i>Fall 2018, Spring 2019</i></p>
