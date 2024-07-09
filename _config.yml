@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Megan Chiovaro"
+title                    : "Megan Chiovaro, Ph.D."
 title_separator          : "-"
-name                     : &name "Megan Chiovaro"
-description              : &description "Graduate Student at the University of Conencticut"
+name                     : &name "Megan Chiovaro, Ph.D."
+description              : &description "Machine Learning Engineer at SEACORP \n Adjunct Faculty at URI beginning Fall 2024"
 url                      : https://mchiovaro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mchiovaro.github.io"
