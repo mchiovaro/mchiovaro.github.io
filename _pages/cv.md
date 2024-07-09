@@ -61,6 +61,11 @@ redirect_from:
 
 ## Talks
 
+<p style="margin-left: 40px"><b>Divide and conquer: A study of division-of-labor tasks from a dynamical systems perspective.</b>
+<br>Chiovaro, M. & Paxton, A.
+<br>Paper presented at the <i>52nd Annual Meeting of the Society for Computation in Psychology.</i>. Boston, MA.
+<br><i>November 2022</i></p>
+
 <p style="margin-left: 40px"><b>Online affect and offline action: An analysis of the relationship between emotions on social media and real-world events.</b>
 <br>Chiovaro, M., Xia, Q., Windsor, L. C., & Paxton, A.
 <br>Paper presented at the <i>51st annual conference of the Society for Computation in Psychology (SCiP)</i>. Virtual conference due to COVID-19.
