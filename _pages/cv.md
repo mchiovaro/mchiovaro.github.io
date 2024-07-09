@@ -11,8 +11,7 @@ redirect_from:
 
 ## Positions
 
-<p style="margin-left: 40px"><b>Software Engineer III</b>
-<br>Special Projects: AI/ML
+<p style="margin-left: 40px"><b>Software Engineer III (Machine Learning)</b>
 <br>SEACORP
 <br><i>August 2023 - present</i></p>
 
@@ -22,32 +21,27 @@ redirect_from:
 
 ## Education
 
-<p style="margin-left: 40px"><b>Ph.D. in Experimental Psychology</b>
+<p style="margin-left: 40px"><b>Ph.D., Experimental Psychology</b>
 <br>University of Connecticut
 <br><i>May 2023</i></p>  
 
-<p style="margin-left: 40px"><b>B.S. in Mathematics</b>
+<p style="margin-left: 40px"><b>B.S., Mathematics; B.S., Psychology</b>
 <br>State University of New York at Oneonta
 <br><i>summa cum laude</i>
-<br><i>August 2014 - May 2018</i></p>  
-
-<p style="margin-left: 40px"><b>B.S. in Psychology</b>
-<br>State University of New York at Oneonta
-<br><i>summa cum laude</i>
-<br><i>August 2014 - May 2018</i></p>  
+<br><i>May 2018</i></p>  
 
 ## Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b> & Paxton, A. (<i>in preparation</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities.
+<p style="margin-left: 40px"><b>Chiovaro, M.</b> & Paxton, A. (<i>under review</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities.
 <br><a href="https://github.com/mchiovaro/division-of-labor-game" target="_blank">Github Repo - Game</a>
 <br><a href="https://github.com/mchiovaro/division-of-labor-analyses" target="_blank">Github Repo - Analyses</a></p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in preparation</i>). From many, one: The colony as a metaphor for socially, temporally, and physically situated cognition.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in preparation</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
 
-<p style="margin-left: 40px">Windsor, L. C., <b>Chiovaro, M.</b>, & Paxton, A. (<i>in preparation</i>). Language during the Rwandan Genocide.</p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b> (2023). <i>Action coordination and group efficiency: An investigation of context and constraints in goal-directed, division-of-labor tasks</i> [Doctoral Thesis, University of Connecticut]. Digital Commons.</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b> (2023). <i>Action coordination and group efficiency: An investigation of context and constraints in goal-directed, division-of-labor tasks</i> [Doctoral Thesis, University of Connecticut]. <a href="https://ctdigitalarchive.org/node/3719936" target="_blank">CT Digital Archive</a></p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., Windsor, A., & Paxton, A. (2021). Online social cohesion reflects real-world action in Syria during the Arab Spring. <i>PLoS ONE</i>, 16(7), e0254087.
 <br><a href="http://mchiovaro.github.io/files/chiovaro_et_al_2021-PLOSONE.pdf" target="_blank">PDF</a>
