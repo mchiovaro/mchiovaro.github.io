@@ -38,10 +38,9 @@ redirect_from:
 
 ## Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b> & Paxton, A. (<i>in preparation</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities.</p>
+<p style="margin-left: 40px"><b>Chiovaro, M.</b> & Paxton, A. (<i>in preparation</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities.
 <br><a href="https://github.com/mchiovaro/division-of-labor-game" target="_blank">Github Repo - Game</a>
-<br><a href="https://github.com/mchiovaro/division-of-labor-analyses" target="_blank">Github Repo - Analyses</a>
-</p>
+<br><a href="https://github.com/mchiovaro/division-of-labor-analyses" target="_blank">Github Repo - Analyses</a></p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in preparation</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
