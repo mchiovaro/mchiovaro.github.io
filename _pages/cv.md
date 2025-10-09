@@ -11,9 +11,16 @@ redirect_from:
 
 ## Positions
 
-<p style="margin-left: 40px"><b>Software Engineer III (Machine Learning)</b>
+<p style="margin-left: 40px"><b>Software Engineer IV (Machine Learning)</b>
+<br>Co-Director, AI/ML Center of Excellence
+<br>Task Manager
 <br>SEACORP
 <br><i>August 2023 - present</i></p>
+
+<p style="margin-left: 40px"><b>Part-Time Teaching Professor</b>
+<br>Department of Electrical, Computer, and Biomedical Engineering
+<br>University of Rhode Island
+<br><i>August 2024 - present</i></p>
 
 <p style="margin-left: 40px"><b>Data Science Fellow</b>
 <br>U.S. Census Bureau
@@ -23,23 +30,26 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>Ph.D., Experimental Psychology</b>
 <br>University of Connecticut
-<br><i>May 2023</i></p>  
+<br><i>2023</i></p>  
 
 <p style="margin-left: 40px"><b>B.S., Mathematics; B.S., Psychology</b>
 <br>State University of New York at Oneonta
 <br><i>summa cum laude</i>
-<br><i>May 2018</i></p>  
+<br><i>2018</i></p>  
 
 ## Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b> & Paxton, A. (<i>under review</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities.
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in press</i>). From many, one: The colony as a metaphor for socially, temporally, and physically situated cognition.</p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b> & Paxton, A. (<i>under review, R&R</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities.
 <br><a href="https://github.com/mchiovaro/division-of-labor-game" target="_blank">Github Repo - Game</a>
 <br><a href="https://github.com/mchiovaro/division-of-labor-analyses" target="_blank">Github Repo - Analyses</a></p>
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in preparation</i>). From many, one: The colony as a metaphor for socially, temporally, and physically situated cognition.</p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in preparation</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>under review</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
+
+<p style="margin-left: 40px">Windsor, L., Haner, R., <b>Chiovaro, M.</b>, Simon, N., Casal, J.E., Windsor, A., van Mersbergen, M., Fowler, A., Fletcher, A., & White, A. (<i>in preparation</i>). Bias in face and emotion recognition:
+Methodological considerations for multicultural and multimodal research.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b> (2023). <i>Action coordination and group efficiency: An investigation of context and constraints in goal-directed, division-of-labor tasks</i> [Doctoral Thesis, University of Connecticut]. <a href="https://ctdigitalarchive.org/node/3719936" target="_blank">CT Digital Archive</a></p>
 
@@ -60,6 +70,28 @@ redirect_from:
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2019). Nest-ed affordances. In  L. van Dijk, & R. Withagen (Eds.), <i>Studies in Perception and Action XV. Proceedings from the Seventeenth International Conference on Perception and Action</i>. Enschede: Ipskamp Printing.</p>
 
 ## Talks
+
+<p style="margin-left: 40px"><b>Deep Learning for Underwater Acoustics Classification.</b>
+<br>Chiovaro, M.
+<br>Presented at the <i>2025 SENEDIA Defense Innovation Days.</i>. Newport, RI, USA.
+<br><i>2025</i></p>
+
+<p style="margin-left: 40px"><b>Large Language Models and Defense: Boosting Efficiency through Machine
+Learning.</b>
+<br>Chiovaro, M.
+<br>Presented at the <i>2024 SENEDIA Defense Innovation Days.</i>. Newport, RI, USA.
+<br><i>2024</i></p>
+
+<p style="margin-left: 40px"><b>Beyond the dyad: Ecological approaches to collective
+human dynamics.</b>
+<br>Chiovaro, M. & Paxton, A. (Organizers)
+<br>Symposium presented at the <i>22nd International Conference on Perception and Action.</i>. Guadalajara, Mexico.
+<br><i>2023</i></p>
+
+<p style="margin-left: 40px"><b>Division-of-labor as a complex system: An exploration of task demand, individual effectivities, and scale.</b>
+<br>Chiovaro, M. & Paxton, A.
+<br>Paper presented at the <i>22nd International Conference on Perception and Action.</i>. Guadalajara, Mexico.
+<br><i>2023</i></p>
 
 <p style="margin-left: 40px"><b>Divide and conquer: A study of division-of-labor tasks from a dynamical systems perspective.</b>
 <br>Chiovaro, M. & Paxton, A.
@@ -117,6 +149,8 @@ redirect_from:
 <br><i>March 2017</i></p>
 
 ## Posters
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (2022). Social dynamics of division-of-labor tasks. Poster presented at the <i>44th Annual Meeting of the Cognitive Science Society.</i>Boston, MA.</p>
+
 <p style="margin-left: 40px">Xia, Q., <b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (2021). Online emotion diffusion during the Arab Spring. Poster presented at the University of Connecticut’s <i>Language Fest</i>.</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b>, Windsor, L. C., & Paxton, A. (<i>forthcoming</i>). Vector Autoregression, Cross-Correlation, and Cross-Recurrence Quantification Analysis: A Case Study in Social Cohesion and Collective Action. 43rd Annual Meeting of the Cognitive Science Society.</p>
@@ -139,6 +173,9 @@ redirect_from:
 <p style="margin-left: 40px"><b>Chiovaro, M. R.</b>, & Lau, K. S. L. (2018). The four facets of psychopathy and suicidal ideation. Poster presented at the <i>Eastern Psychological Association’s Annual Meeting</i>. Philadelphia, PA.</p>
 
 ## Funding and Awards
+
+<p style="margin-left: 40px"><b>2025</b>
+<br>Emerging Leader Award, Alumni Association, State University of New York at Oneonta</p>
 
 <p style="margin-left: 40px"><b>2022</b>
 <br>Doctoral Dissertation Award (2022), The Graduate School, University of Connecticut</p>
@@ -171,23 +208,17 @@ SUNY Oneonta
 <br>Student Grant Program for Research & Creative Activity, SUNY Oneonta
 <br>Helen & Michael Casper Fellowship for Internship Support, SUNY Oneonta</p>
 
-## Lab Involvement
-
-<p style="margin-left: 40px"><b>Research Assistant</b>
-<br>Department of Psychological Sciences
-<br>University of Connecticut
-<br>DYSCORD Lab
-<br>Supervisor: Alexandra Paxton
-<br><i>August 2018 — August 2023</i></p>    
-
-<p style="margin-left: 40px"><b>Research Assistnat</b>
-<br>Department of Psychology
-<br>State University of New York at Oneonta
-<br>DAPPER Lab
-<br>Supervisor: Katherine Lau
-<br><i>January 2017 — May 2018</i></p>
-
 ## Teaching experience
+
+<p style="margin-left: 40px"><b>Introduction to Machine Learning for Engineering Applications</b>
+<br>Department of Electrical, Computer, and Biomedical Engineering 
+<br>University of Rhode Island
+<br><i>Fall 2024 (ELE391), Fall 2025 (ELE491)</i></p>
+
+<p style="margin-left: 40px"><b>Advanced Machine Learning for Engineering Applications</b>
+<br>Department of Electrical, Computer, and Biomedical Engineering 
+<br>University of Rhode Island
+<br><i>Spring 2025 (ELE392)</i></p>
 
 <p style="margin-left: 40px"><b>Coordinator: PSYC 2100WQ</b>
 <br>University of Connecticut
