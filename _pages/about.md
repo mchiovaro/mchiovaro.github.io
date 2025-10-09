@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome! I'm Megan Chiovaro, a **Senior Machine Learning Engineer** at [SEACORP](https://www.seacorp.com/). Our team is working to bring **innovative AI/ML solutions** to DoD customers. I've co-founded and currently co-direct our AI/ML Center of Excellence, creating collaboration and educational opportunities across SEACORP.
 
-My passion for education and computational innovation has led me to join the Department of Electrical, Computer, and Biomedical Engineering at the University of Rhode Island as a part-time Teaching Professor. I developed and have been teaching a new undergraduate course sequence, Machine Learning for Engineering Applications, and the positive feedback and demand has culminated in the founding of the new Undergraduate Certificate in AI for Engineering Applications.
+My passion for education and computational innovation has led me to join the [Department of Electrical, Computer, and Biomedical Engineering](https://web.uri.edu/ecbe/) at the University of Rhode Island as a part-time **Teaching Professor**. I developed and have been teaching a new undergraduate course sequence, ***Machine Learning for Engineering Applications***, and the positive feedback and demand has culminated in the founding of the new ***Undergraduate Certificate in AI for Engineering***.
 
 Previously, I've also served as a Data Scientist Fellow for the U.S. Census Bureau, using ML to understand links between criminal justice records and IRS returns to identify local labor market opportunities for individuals with criminal records. I'm also an instructor for [SoftwareCarpentry](https://software-carpentry.org/), a volunteer-run organization teaching computing skills to researchers and students across the globe.
 
