@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Megan Chiovaro, Ph.D."
 title_separator          : "-"
 name                     : &name "Megan Chiovaro, Ph.D."
-description              : &description "Senior Machine Learning Engineer at SEACORP \n Teaching Faculty at the University of Rhode Island"
+description              : &description "Part-Time Teaching Faculty at the University of Rhode Island"
 url                      : https://mchiovaro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mchiovaro.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Megan Chiovaro, Ph.D."
   avatar           : "profile.png"
-  bio              : "Machine Learning Engineer at SEACORP; Adjunct Faculty at URI beginning Fall 2024"
+  bio              : "Part-Time Teaching Faculty, University of Rhode Island"
   location         : "Newport, RI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
