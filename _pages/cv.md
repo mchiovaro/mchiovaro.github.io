@@ -11,16 +11,16 @@ redirect_from:
 
 ## Positions
 
-<p style="margin-left: 40px"><b>Software Engineer IV (Machine Learning)</b>
-<br>Co-Director, AI/ML Center of Excellence
-<br>Task Manager
-<br>SEACORP
-<br><i>August 2023 - present</i></p>
-
 <p style="margin-left: 40px"><b>Part-Time Teaching Professor</b>
 <br>Department of Electrical, Computer, and Biomedical Engineering
 <br>University of Rhode Island
 <br><i>August 2024 - present</i></p>
+
+<p style="margin-left: 40px"><b>Software Engineer IV (Machine Learning)</b>
+<br>Co-Director, AI/ML Center of Excellence
+<br>Task Manager
+<br>SEACORP
+<br><i>August 2023 - May 2026</i></p>
 
 <p style="margin-left: 40px"><b>Data Science Fellow</b>
 <br>U.S. Census Bureau
@@ -39,9 +39,7 @@ redirect_from:
 
 ## Publications and Proceedings
 
-<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in press</i>). From many, one: The colony as a metaphor for socially, temporally, and physically situated cognition.</p>
-
-<p style="margin-left: 40px"><b>Chiovaro, M.</b> & Paxton, A. (<i>under review, R&R</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities.
+<p style="margin-left: 40px"><b>Chiovaro, M.</b> & Paxton, A. (<i>in press</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities. <i>Journal of Experimental Psychology: General.</i>
 <br><a href="https://github.com/mchiovaro/division-of-labor-game" target="_blank">Github Repo - Game</a>
 <br><a href="https://github.com/mchiovaro/division-of-labor-analyses" target="_blank">Github Repo - Analyses</a></p>
 
@@ -50,6 +48,9 @@ redirect_from:
 
 <p style="margin-left: 40px">Windsor, L., Haner, R., <b>Chiovaro, M.</b>, Simon, N., Casal, J.E., Windsor, A., van Mersbergen, M., Fowler, A., Fletcher, A., & White, A. (<i>in preparation</i>). Bias in face and emotion recognition:
 Methodological considerations for multicultural and multimodal research.</p>
+
+<p style="margin-left: 40px"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in press</i>). From many, one: The eusocial colony as a metaphor for socially, temporally, and physically situated cognition. In <i>Beyond the Computer Metaphor of the Mind and Brain</i>. Cambridge University Press.
+</p>
 
 <p style="margin-left: 40px"><b>Chiovaro, M.</b> (2023). <i>Action coordination and group efficiency: An investigation of context and constraints in goal-directed, division-of-labor tasks</i> [Doctoral Thesis, University of Connecticut]. <a href="https://ctdigitalarchive.org/node/3719936" target="_blank">CT Digital Archive</a></p>
 
@@ -213,12 +214,12 @@ SUNY Oneonta
 <p style="margin-left: 40px"><b>Introduction to Machine Learning for Engineering Applications</b>
 <br>Department of Electrical, Computer, and Biomedical Engineering 
 <br>University of Rhode Island
-<br><i>Fall 2024 (ELE391), Fall 2025 (ELE491)</i></p>
+<br><i>Fall 2024 (ELE391), Fall 2025 (ELE491), Spring 2026 (ELE491)</i></p>
 
 <p style="margin-left: 40px"><b>Advanced Machine Learning for Engineering Applications</b>
 <br>Department of Electrical, Computer, and Biomedical Engineering 
 <br>University of Rhode Island
-<br><i>Spring 2025 (ELE392)</i></p>
+<br><i>Spring 2025 (ELE392), Fall 2026 (EGR444)</i></p>
 
 <p style="margin-left: 40px"><b>Coordinator: PSYC 2100WQ</b>
 <br>University of Connecticut
