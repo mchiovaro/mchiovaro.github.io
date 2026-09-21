@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<main id="main" class="profile-page {{ page.page_class }}">
+  <header class="profile-header">
+    <p class="eyebrow">{{ page.eyebrow | default: "Megan Chiovaro, Ph.D." }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="profile-description">{{ page.description }}</p>{% endif %}
+  </header>
+  {% if page.sectioned == false %}
+    {{ content }}
+  {% else %}
+  {% assign sections = content | split: '<h2' %}
+  {% for section in sections %}
+    {% if forloop.first %}
+      {% assign introduction = section | strip %}
+      {% if introduction != '' %}<div class="profile-introduction">{{ section }}</div>{% endif %}
+    {% else %}
+      <section class="content-block"><h2{{ section }}</section>
+    {% endif %}
+  {% endfor %}
+  {% endif %}
+</main>

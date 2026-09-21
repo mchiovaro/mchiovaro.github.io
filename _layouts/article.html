@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<main id="main" class="profile-page article-page">
+  <header class="profile-header">
+    <a class="eyebrow" href="{{ '/writing/' | relative_url }}">&larr; All writing</a>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="article-date"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%B %-d, %Y' }}</time> · Megan Chiovaro</p>
+    {% if page.description %}<p class="profile-description">{{ page.description | escape }}</p>{% endif %}
+  </header>
+  <article class="article-body">{{ content }}</article>
+  <p class="article-back"><a href="{{ '/writing/' | relative_url }}">&larr; Back to all writing</a></p>
+</main>
