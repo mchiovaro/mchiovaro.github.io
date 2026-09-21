@@ -1,21 +1,67 @@
 ---
-layout: archive
+layout: home
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
+title: "Research, people, and conservation"
+excerpt: "Megan Chiovaro — researcher, educator, and project leader bringing quantitative research and community engagement to conservation."
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
-{% include base_path %}
 
-Welcome! I'm Megan Chiovaro, a social scientist, R&D specialist, and passionate science communicator. My commitment to education and computational innovation has led me to join the [Department of Electrical, Computer, and Biomedical Engineering](https://web.uri.edu/ecbe/) at the University of Rhode Island as a part-time **Teaching Professor**. I developed and have been teaching a new undergraduate course sequence, ***Machine Learning for Engineering Applications***. The positive feedback and demand has culminated in the founding of the new ***Undergraduate Certificate in AI/ML for Engineering Applications***! My goal is to bring accessible machine learning education to students and researchers of all backgrounds, increasing involvement and diversity in the field. Check out some of my introductory follow-along coding labs [here](https://github.com/mchiovaro/Introduction-to-ML).
+<div class="home-intro">
+  <div>
+    <p class="eyebrow">Research · Education · Community</p>
+    <h1>Research, people,<br>and conservation.</h1>
+    <p class="home-lead">I’m Megan Chiovaro, a researcher, educator, and project leader bringing quantitative research, technical program experience, and community science engagement to conservation and policy.</p>
+    <p>My work spans collective behavior in humans and non-human groups (such as honey bees), machine learning, and sustainability education. I’m interested in opportunities that connect rigorous research with collaborative projects and public engagement.</p>
+    <div class="home-actions">
+      <a class="site-button" href="{{ '/projects/' | relative_url }}">Explore my work</a>
+      <a class="text-link" href="{{ '/cv/' | relative_url }}">View my CV &rarr;</a>
+    </div>
+  </div>
+  <img class="home-portrait" src="{{ '/images/profile.png' | relative_url }}" alt="Megan Chiovaro" width="360" height="360">
+</div>
 
-As a former Task Manager and Senior Software Engineer at SEACORP, I worked to bring **innovative AI/ML solutions** to DoD customers. Alongside company executives, I helped to found and run an AI/ML Center of Excellence, creating collaboration and educational opportunities at SEACORP. I was also recently a Data Scientist Fellow for the U.S. Census Bureau, using ML to understand links between criminal justice records and IRS returns to identify local labor market opportunities for individuals with criminal records. I'm also an instructor for [SoftwareCarpentry](https://software-carpentry.org/), a volunteer-run organization teaching computing skills to researchers and students across the globe.
+<section class="home-section" aria-labelledby="work-heading">
+  <p class="eyebrow">Experience I bring</p>
+  <h2 id="work-heading">Connecting analysis, collaboration, and learning</h2>
+  <div class="work-grid">
+    <article class="work-card">
+      <span class="card-label">Research & analysis</span>
+      <h3>Understanding collective behavior</h3>
+      <p>Exploring how humans and honey bees coordinate their actions, through experimental research, nonlinear analysis, and computational methods.</p>
+      <a href="{{ '/projects/#collective-behavior' | relative_url }}">Explore the research &rarr;</a>
+    </article>
+    <article class="work-card">
+      <span class="card-label">Project & program leadership</span>
+      <h3>Building programs and teams</h3>
+      <p>Experience in technical task management, co-directing an AI/ML Center of Excellence, and developing a university machine learning course sequence.</p>
+      <a href="{{ '/projects/#program-leadership' | relative_url }}">Read about program development &rarr;</a>
+    </article>
+    <article class="work-card">
+      <span class="card-label">Outreach & education</span>
+      <h3>Making science accessible</h3>
+      <p>Community sustainability education with Keney Park, science outreach, beekeeper mentoring, and computing workshops for students and researchers.</p>
+      <a href="{{ '/outreach/' | relative_url }}">See my outreach work &rarr;</a>
+    </article>
+  </div>
+</section>
 
-I earned my PhD in [Experimental Psychology](https://psych.uconn.edu/) from the University of Connecticut, where I was a part of the [Dynamics of Social Coordination and Inter-Organism Dependencies (dyscord) Lab](https://dyscord-lab.github.io/), investigating social phenomena in dyads and groups from a dynamical systems perspective. I'm a former Fellow of the [Science of Learning and Art of Communication (SLAC)](https://slac.uconn.edu/) and awardee of an Honorable Mention for the NSF Graduate Research Fellowship Program. I have held affiliations with several other organizations, including the Center for the Ecological Study of Perception and Action, the Institute for Collaboration on Health, Intervention, and Policy, and the Institute for the Brain and Cognitive Sciences.
+<section class="home-background" aria-labelledby="background-heading">
+  <div>
+    <p class="eyebrow">My background</p>
+    <h2 id="background-heading">A quantitative foundation.<br>A commitment to education.</h2>
+  </div>
+  <div>
+    <p>I earned my Ph.D. in Experimental Psychology at the University of Connecticut, studying social coordination and collective behavior. I also hold bachelor’s degrees in Mathematics and Psychology.</p>
+    <p>As a part-time Teaching Professor at the University of Rhode Island, I developed a machine learning course sequence that helped establish an undergraduate certificate in AI/ML for Engineering Applications. My professional experience includes SEACORP and a data science fellowship with the U.S. Census Bureau.</p>
+    <a href="{{ '/cv/' | relative_url }}">More about my experience &rarr;</a>
+  </div>
+</section>
 
-My academic research interests include <i>social dynamics, collective intelligence, and action coordination</i> in goal-oriented settings. I harness **dynamical nonlinear analyses** and **machine learning methods** to capture the wildness and variability that is deep-rooted in sociality. I integrate traditional laboratory experiments and naturally occurring datasets to investigate social coordination from new perspectives. Through these, my work disentangles the particular contexts and constraints which give rise to emergent coordination strategies, in turn leading to increased efficiency and better outcomes in groups.
-
-I'm accepting research assistants to join some upcoming machine learning projects. If you are interested, please reach out to me at [mchiovaro@uri.edu](mchiovaro@uri.edu).
+<section class="home-contact" aria-labelledby="contact-heading">
+  <h2 id="contact-heading">Let’s connect</h2>
+  <p>I welcome conversations about conservation research, project coordination, and science outreach.</p>
+  <a class="site-button" href="mailto:mchiovaro@uri.edu">Get in touch</a>
+</section>

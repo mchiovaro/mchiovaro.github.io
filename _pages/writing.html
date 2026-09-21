@@ -1,0 +1,50 @@
+---
+layout: profile
+title: "Writing"
+permalink: /writing/
+author_profile: false
+sectioned: false
+eyebrow: "Ideas & observations"
+description: "A space for essays, reflections, and conversations beyond the research paper."
+redirect_from:
+  - /blog/
+---
+<div class="writing-feature">
+  <div>
+    <p class="eyebrow">On Substack</p>
+    <h2 class="writing-feature-title">Follow the conversation</h2>
+    <p>Find my writing on Substack, and subscribe to receive new posts in your inbox.</p>
+  </div>
+  <a class="site-button" href="https://mchiovaro.substack.com/">Read on Substack &rarr;</a>
+</div>
+{% assign external_articles = site.data.writing | sort: 'date' | reverse %}
+{% assign local_articles = site.posts | where: 'writing', true %}
+{% if external_articles.size > 0 %}
+<h2 id="selected-articles">Selected articles</h2>
+<div class="resource-grid">
+{% for article in external_articles %}
+  <article class="resource-card">
+    <p class="card-label">{{ article.source | default: "Elsewhere" | escape }}{% if article.date %} · <time datetime="{{ article.date | date: '%Y-%m-%d' }}">{{ article.date | date: '%B %-d, %Y' }}</time>{% endif %}</p>
+    <h3><a href="{{ article.url | escape }}">{{ article.title | escape }}</a></h3>
+    <p>{{ article.description | escape }}</p>
+    <a href="{{ article.url | escape }}">Read article &rarr;</a>
+  </article>
+{% endfor %}
+</div>
+{% endif %}
+{% if local_articles.size > 0 %}
+<h2 id="from-the-blog">From the blog</h2>
+<div class="resource-grid">
+{% for post in local_articles %}
+  <article class="resource-card">
+    <p class="card-label"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %-d, %Y' }}</time> · On this site</p>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+    <p>{{ post.description | default: post.excerpt | strip_html | truncatewords: 35 }}</p>
+    <a href="{{ post.url | relative_url }}">Read post &rarr;</a>
+  </article>
+{% endfor %}
+</div>
+{% endif %}
+{% if external_articles.size == 0 and local_articles.size == 0 %}
+<p class="writing-note">New essays and updates will be collected here as they’re published. In the meantime, you can follow along on Substack.</p>
+{% endif %}

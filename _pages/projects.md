@@ -1,17 +1,75 @@
 ---
-layout: archive
-title: "Projects"
+layout: profile
+title: "Research & Projects"
 permalink: /projects/
-author_profile: true
+author_profile: false
+eyebrow: "Explore the work"
+page_class: "projects-page"
 ---
 
-## Machine Learning Projects
+My work connects quantitative research, collaborative program development, and accessible technical education. These experiences inform the perspective I bring to conservation research and project work.
 
-### RAGify
-As any type of engineer knows, documentation can often be lengthy and time consuming to sift through. Some olders PDFs are not even searchable. This is one of the reasons I'm working on [RAGify](https://github.com/mchiovaro/RAGify), a template for Retrieval-Augmented-Generation (RAG) applications. The current version of the app will perform OCR on any uploaded PDF, embed the text, build a temporary vector database, and perform RAG with assistance from pre-loaded LLMs. The offline nature of the app makes it viable for use with sensitive data, such as proprietary documentation. RAGify is an ongoing passion project. Please feel free to reach out with any requests or suggestions for functionality!
+## Collective behavior
 
-### Stock AIdvisor
-Personal finance has always been a passion of mine. I'm a firm believer in accessible educational tools, hence the [Stock AIdvisor](https://huggingface.co/spaces/mchiovaro/stock-aidvisor) was born! Just type in a description of a company and the app will identify the company you are most likely refering to, grab the ticker, download data on the stocks performance, and provide a financial analysis. This is intended to help individuals learn how to evaluate stocks and their viability as investment options. Stock AIdvisor is an ongoing project. Just like with RAGify, please feel free to reach out with any requests or suggestions!
+### How do groups coordinate without a leader?
 
-## Academic Research Overview: What contexts and constraints give rise to successful leaderless group coordination?
-A common theme across all of my academic research is the ways in which groups work together to achieve a common goal. Whether it's humans or honey bees, individuals coordinate their actions to achieve greater feats at faster speeds, even without an explicit leader. Identifying manipulatable factors to promote effective coordination strategies will allow workgroups to engineer their environments so as to increase efficiency and subsequently workplace health. Given recent shifts and advancements in online work teams and micro-blogging platforms, this question is increasingly important to disentangle in both the virtual and real world.
+From humans to honey bees, I study how individuals coordinate their actions toward a shared goal. My doctoral research at the University of Connecticut investigated how task demands, communication, and action constraints shape division of labor and group efficiency.
+
+**My approach:** Experimental design, analysis of naturally occurring datasets, nonlinear time-series methods, and computational tools for understanding complex social behavior.
+
+**Selected work:**
+
+- [Ecological Psychology Meets Ecology: Honey bees as a model for perception-action, social dynamics, and human factors](/files/chiovaro_paxton_2020_Ecological.pdf)
+- [Action coordination in non-human self-organizing collectives](/files/chiovaro_paxton_2020_action.pdf), a multidisciplinary special issue I co-edited.
+- [Division-of-labor research software](https://github.com/mchiovaro/division-of-labor-game) and [analysis code](https://github.com/mchiovaro/division-of-labor-analyses).
+
+This work provides a foundation for asking questions about behavior, coordination, and the relationships between organisms and their environments.
+
+## Open research tools
+
+Reusable methods and research software are an important part of my work. These repositories document my approach to studying behavior, coordination, and change over time.
+
+{% include project-cards.html projects=site.data.projects.research %}
+
+## Program leadership
+
+### Building collaborative technical programs
+
+At SEACORP, I served as a Task Manager and Software Engineer IV and co-directed the AI/ML Center of Excellence. Working alongside company executives, I helped establish the center to create opportunities for collaboration and education while supporting applied AI/ML work for defense customers.
+
+### Developing accessible machine learning education
+
+As a part-time Teaching Professor at the University of Rhode Island, I developed and taught a two-course sequence in machine learning for engineering applications. The sequence helped establish the Undergraduate Certificate in AI/ML for Engineering Applications.
+
+My goal is to make computational methods accessible to students and researchers from varied backgrounds. [Explore the introductory coding labs](https://github.com/mchiovaro/Introduction-to-ML).
+
+## Learning resources
+
+I create practical materials that help students and researchers build confidence with data and computational methods.
+
+{% include project-cards.html projects=site.data.projects.teaching %}
+
+## Community sustainability & science outreach
+
+My work with the Keney Park Sustainability Project connects beekeeping with hands-on sustainability education. Alongside science communication, student mentoring, and Software Carpentry instruction, it reflects my commitment to making research accessible beyond the university.
+
+[Read about my outreach and community work](/outreach/).
+
+## Additional technical projects
+
+<div class="resource-grid">
+  <article class="resource-card">
+    <p class="card-label">Python · Document tools</p>
+    <h3>RAGify</h3>
+    <p>A Gradio application for asking questions of PDFs using retrieval-augmented generation. The project combines document processing with language models.</p>
+    <a href="https://github.com/mchiovaro/RAGify">Explore RAGify &rarr;</a>
+  </article>
+  <article class="resource-card">
+    <p class="card-label">Machine learning · Personal finance</p>
+    <h3>Stock AIdvisor</h3>
+    <p>An exploratory app for identifying companies from descriptions and examining their stock data, built around accessible financial learning.</p>
+    <a href="https://github.com/mchiovaro/StockAIdvisor">Explore Stock AIdvisor &rarr;</a>
+  </article>
+</div>
+
+[Browse all my public repositories](https://github.com/mchiovaro?tab=repositories).
