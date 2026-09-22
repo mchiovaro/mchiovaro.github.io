@@ -49,9 +49,6 @@ Researcher, educator, and project leader with a Ph.D. in Experimental Psychology
 
 ## Publications and Proceedings
 
-<p class="cv-entry"><b>Chiovaro, M.</b>, & Paxton, A. (<i>under review</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
-<br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
-
 <p class="cv-entry">Windsor, L., Haner, R., <b>Chiovaro, M.</b>, Simon, N., Casal, J.E., Windsor, A., van Mersbergen, M., Fowler, A., Fletcher, A., & White, A. (<i>in preparation</i>). Bias in face and emotion recognition:
 Methodological considerations for multicultural and multimodal research.</p>
 
