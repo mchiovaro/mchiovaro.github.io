@@ -22,7 +22,7 @@ Researcher, educator, and project leader with a Ph.D. in Experimental Psychology
 ## Positions
 
 <p class="cv-entry"><b>Part-Time Teaching Professor</b>
-<br>Department of Electrical, Computer, and Biomedical Engineering
+<br>Department of Electrical and Computer Engineering
 <br>University of Rhode Island
 <br><i>August 2024 - present</i></p>
 
@@ -32,7 +32,7 @@ Researcher, educator, and project leader with a Ph.D. in Experimental Psychology
 <br>SEACORP
 <br><i>August 2023 - May 2026</i></p>
 
-<p class="cv-entry"><b>Data Science Fellow</b>
+<p class="cv-entry"><b>Civiv Digital Fellow (Data Science)</b>
 <br>U.S. Census Bureau
 <br><i>June 2022 - August 2022</i></p>
 
