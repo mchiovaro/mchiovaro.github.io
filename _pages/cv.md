@@ -60,9 +60,7 @@ Methodological considerations for multicultural and multimodal research.</p>
 <br><a href="https://github.com/mchiovaro/division-of-labor-analyses" target="_blank">Github Repo - Analyses</a>
 <br><a class="site-button" href="mailto:mchiovaro@uri.edu">Request a copy</a></p>
 
-<p class="cv-entry"><b>Chiovaro, M.</b>, & Paxton, A. (2026). From many, one: The eusocial colony as a metaphor for socially, temporally, and physically situated cognition. In <i>Beyond the Computer Metaphor of the Mind and Brain.</i> <a href="https://www.cambridge.org/core/books/beyond-the-computer-metaphor-of-mind-and-brain/7DABDC1F327085287B2F5F45B8C488B0" target="_blank">Cambridge University Press.</a>
-
-</p>
+<p class="cv-entry"><b>Chiovaro, M.</b>, & Paxton, A. (2026). From many, one: The eusocial colony as a metaphor for socially, temporally, and physically situated cognition. In <i>Beyond the Computer Metaphor of the Mind and Brain.</i> <a href="https://www.cambridge.org/core/books/beyond-the-computer-metaphor-of-mind-and-brain/7DABDC1F327085287B2F5F45B8C488B0" target="_blank">Cambridge University Press.</a></p>
 
 <p class="cv-entry"><b>Chiovaro, M.</b> (2023). <i>Action coordination and group efficiency: An investigation of context and constraints in goal-directed, division-of-labor tasks</i> [Doctoral Thesis, University of Connecticut]. <a href="https://ctdigitalarchive.org/node/3719936" target="_blank">CT Digital Archive</a></p>
 
