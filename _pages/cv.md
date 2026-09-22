@@ -49,17 +49,19 @@ Researcher, educator, and project leader with a Ph.D. in Experimental Psychology
 
 ## Publications and Proceedings
 
-<p class="cv-entry"><b>Chiovaro, M.</b> & Paxton, A. (<i>in press</i>). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities. <i>Journal of Experimental Psychology: General.</i>
-<br><a href="https://github.com/mchiovaro/division-of-labor-game" target="_blank">Github Repo - Game</a>
-<br><a href="https://github.com/mchiovaro/division-of-labor-analyses" target="_blank">Github Repo - Analyses</a></p>
-
 <p class="cv-entry"><b>Chiovaro, M.</b>, & Paxton, A. (<i>under review</i>). Nonlinear, natural, and noisy: A quantitative approach to the collection and analysis of real-world social behavior.
 <br><a href="https://github.com/mchiovaro/nonlinear-natural-noisy/" target="_blank">Github Repo</a></p>
 
 <p class="cv-entry">Windsor, L., Haner, R., <b>Chiovaro, M.</b>, Simon, N., Casal, J.E., Windsor, A., van Mersbergen, M., Fowler, A., Fletcher, A., & White, A. (<i>in preparation</i>). Bias in face and emotion recognition:
 Methodological considerations for multicultural and multimodal research.</p>
 
-<p class="cv-entry"><b>Chiovaro, M.</b>, & Paxton, A. (<i>in press</i>). From many, one: The eusocial colony as a metaphor for socially, temporally, and physically situated cognition. In <i>Beyond the Computer Metaphor of the Mind and Brain</i>. Cambridge University Press.
+<p class="cv-entry"><b>Chiovaro, M.</b> & Paxton, A. (2026). Dyadic division-of-labor: Effects of action constraints, task difficulty, and communicative abilities. <i><a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0001956" target="_blank">Journal of Experimental Psychology: General.</a></i>
+<br><a href="https://github.com/mchiovaro/division-of-labor-game" target="_blank">Github Repo - Game</a>
+<br><a href="https://github.com/mchiovaro/division-of-labor-analyses" target="_blank">Github Repo - Analyses</a>
+<br><a class="site-button" href="mailto:mchiovaro@uri.edu">Request a copy</a></p>
+
+<p class="cv-entry"><b>Chiovaro, M.</b>, & Paxton, A. (2026). From many, one: The eusocial colony as a metaphor for socially, temporally, and physically situated cognition. In <i>Beyond the Computer Metaphor of the Mind and Brain.</i> <a href="https://www.cambridge.org/core/books/beyond-the-computer-metaphor-of-mind-and-brain/7DABDC1F327085287B2F5F45B8C488B0" target="_blank">Cambridge University Press.</a>
+
 </p>
 
 <p class="cv-entry"><b>Chiovaro, M.</b> (2023). <i>Action coordination and group efficiency: An investigation of context and constraints in goal-directed, division-of-labor tasks</i> [Doctoral Thesis, University of Connecticut]. <a href="https://ctdigitalarchive.org/node/3719936" target="_blank">CT Digital Archive</a></p>
