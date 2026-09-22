@@ -36,4 +36,10 @@ For opportunities, collaborations, or questions about my work, email is the best
     <p>Connect with me and learn more about my professional background.</p>
     <a href="https://www.linkedin.com/in/megan-chiovaro-phd-179861b6/">Find me on LinkedIn &rarr;</a>
   </article>
+  <article class="resource-card">
+    <p class="card-label">Research & publications</p>
+    <h3>ResearchGate</h3>
+    <p>Explore my publications and connect with me about research.</p>
+    <a href="https://www.researchgate.net/profile/Megan-Chiovaro">Find me on ResearchGate &rarr;</a>
+  </article>
 </div>
