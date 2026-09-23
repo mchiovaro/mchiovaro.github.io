@@ -66,6 +66,7 @@ a.site-button:hover { background: #183A2C; color: #fff; }
 .section-nav a:hover { background: #E5ECE3; }
 .cv-entry { background: rgba(255,255,255,.8); border-left: 3px solid #B58A3A; padding: 1.1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; font-size: .9rem; }
 .content-block > .cv-entry { max-width: none; }
+.writing-introduction { max-width: 72ch; margin: 0 auto 2.5rem; line-height: 1.8; }
 .writing-feature { display: flex; gap: 2rem; align-items: center; justify-content: space-between; padding: 2.5rem; background: #E5ECE3; border: 1px solid #D7DFD5; border-radius: 10px; }
 .writing-feature > div { max-width: 62ch; }
 .writing-feature-title { font-size: 1.65rem; margin: 0 0 1rem; }
