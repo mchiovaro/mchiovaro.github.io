@@ -17,6 +17,16 @@ redirect_from:
   <p>Let’s start with what we think we know.</p>
 </div>
 
+{% assign featured_article = site.pages | where: 'featured_writing', true | first %}
+{% if featured_article %}
+<article class="featured-article" aria-labelledby="featured-article-title">
+  <p class="eyebrow">Featured writing</p>
+  <h2 id="featured-article-title"><a href="{{ featured_article.url | relative_url }}">{{ featured_article.title | escape }}</a></h2>
+  <p>{{ featured_article.description | escape }}</p>
+  <a class="text-link" href="{{ featured_article.url | relative_url }}">Read the full article <span aria-hidden="true">&rarr;</span></a>
+</article>
+{% endif %}
+
 <div class="writing-feature">
   <div>
     <p class="eyebrow">On Substack</p>
@@ -53,6 +63,6 @@ redirect_from:
 {% endfor %}
 </div>
 {% endif %}
-{% if external_articles.size == 0 and local_articles.size == 0 %}
+{% if external_articles.size == 0 and local_articles.size == 0 and featured_article == nil %}
 <p class="writing-note">New essays and updates will be collected here as they’re published. In the meantime, you can follow along on Substack.</p>
 {% endif %}
