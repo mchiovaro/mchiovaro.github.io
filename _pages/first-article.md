@@ -3,7 +3,7 @@ layout: article
 title: "First article — coming soon"
 description: "A new essay is on its way. Check back soon to read the full piece."
 permalink: /writing/first-article/
-featured_writing: true
+published: false
 author_profile: false
 sitemap: false
 ---

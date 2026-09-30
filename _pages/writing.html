@@ -17,7 +17,9 @@ redirect_from:
   <p>Let’s start with what we think we know.</p>
 </div>
 
-{% assign featured_article = site.pages | where: 'featured_writing', true | first %}
+{% assign writing_posts = site.posts | where: 'writing', true %}
+{% assign featured_article = writing_posts | where: 'featured_writing', true | first %}
+{% assign local_articles = writing_posts | where_exp: 'post', 'post.url != featured_article.url' %}
 {% if featured_article %}
 <article class="featured-article" aria-labelledby="featured-article-title">
   <p class="eyebrow">Featured writing</p>
@@ -36,7 +38,6 @@ redirect_from:
   <a class="site-button" href="https://mchiovaro.substack.com/">Read on Substack &rarr;</a>
 </div>
 {% assign external_articles = site.data.writing | sort: 'date' | reverse %}
-{% assign local_articles = site.posts | where: 'writing', true %}
 {% if external_articles.size > 0 %}
 <h2 id="selected-articles">Selected articles</h2>
 <div class="resource-grid">
