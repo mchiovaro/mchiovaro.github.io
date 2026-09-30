@@ -1,12 +1,14 @@
 ---
 title: 'The Dataset Is Not the Ecosystem'
 date: 2026-09-30
-permalink: /posts/2026/09/blog-post-1/
+permalink: /writing/the-dataset-is-not-the-ecosystem/
 layout: article
 writing: true
 featured_writing: true
 redirect_from:
   - /writing/first-article/
+  - /posts/the-dataset-is-not-the-ecosystem/
+  - /posts/2026/09/blog-post-1/
 description: "What our datasets capture, what they leave out, and how those choices shape our understanding of the world."
 tags:
   - data
